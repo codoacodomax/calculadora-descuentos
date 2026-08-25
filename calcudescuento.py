@@ -7,4 +7,4 @@ descuento=float(input("Ingrese solamente el numero (sin el %) correspondiente al
 def calculopreciofinal():
      return monto*(1-(descuento/100))
    
-print("el monto que debera abonar luego de que se apicara el descuento sera de $ ", calculopreciofinal())
+print("el monto que debera abonar luego de que se aplicara el descuento sera de $ ", calculopreciofinal())
